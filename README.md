@@ -40,33 +40,3 @@ Visual studio мора да се инсталира на вашиот компј
 
 ![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/11.png)
 
-Ајде да ги испитаме функциите на копчињата едно по едно.
-1)	Видете ги записите – Ги прикажува студентите запишани во базата на податоци.
-
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/12.png)
-
-2)  Зачувај - Копче за зачувување на учениците во базата на податоци
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/13.png)
-
-Откако ќе го зачувате ученикот, можете да видите дека тој е додадена во базата на податоци.
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/14.png)
-
-3) Избриши - Тоа е копчето што се користи за бришење ученик од базата на податоци
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/15.png)
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/16.png)
-
-Можете да видите дека ученикот е избришан од панелот “Видете ги записите”.
-
-<br/>
-**Дополнително, можете да ги ажурирате информациите за студентот што го сакате од панелот за информации за ученикот. Откако ќе ги промените информациите што сакате да ги промените, кликнете на копчето за ажурирање.**
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/18.png)
-
-Со кликнување на копчето Администратори, можете да ги видите администраторите и нивните информации во системот.
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/19.png)
-
-Администраторите регистрирани во системот се дадени на сликата подолу.
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/20.png)
-
-Можете да додадете нов администратор во системот од панелот за додавање администратор со кликнување на копчето за додавање администратор.
-![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/20.png)
-
