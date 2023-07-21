@@ -40,3 +40,7 @@ Visual studio мора да се инсталира на вашиот компј
 
 ![Shape1](https://github.com/cuneythuseini/One-Time-Password/blob/master/readme_pictures/11.png)
 
+<br/>
+
+Всушност, делот до овој момент беше за „One-Time-Password“, а следниот дел ќе биде за користењето на веб-страницата. За ова, можете да ја прочитате датотеката **Usage_185020**.
+
